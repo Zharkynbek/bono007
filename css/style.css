@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 body {
-  background: #000;
+  background: rgb(207, 189, 189);
 }
 
 #fon1 {
-  background-color: rgb(157, 194, 26);
+  background-color: rgb(243, 190, 14);
 }
 
 .logotip img {
@@ -55,7 +55,7 @@ div h1 {
 }
 
 #hobbys {
-  background-color: rgb(247, 177, 235);
+  background-color: rgb(221, 175, 22);
 }
 
 .tech-skills-container {
